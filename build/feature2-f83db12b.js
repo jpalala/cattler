@@ -1,0 +1,2 @@
+import{S as a,i as s,s as e,e as r,t,b as u,c,d as o,f,g as n,h as l,k as i,l as h,n as d}from"./main-430b3c75.js";function m(a){let s,e,m,p,v;return{c(){s=r("h1"),e=t("Feature 2"),m=u(),p=r("b"),v=t("v1 feature")},l(a){s=c(a,"H1",{});var r=o(s);e=f(r,"Feature 2"),r.forEach(n),m=l(a),p=c(a,"B",{});var t=o(p);v=f(t,"v1 feature"),t.forEach(n)},m(a,r){i(a,s,r),h(s,e),i(a,m,r),i(a,p,r),h(p,v)},p:d,i:d,o:d,d(a){a&&n(s),a&&n(m),a&&n(p)}}}export default class extends a{constructor(a){super(),s(this,a,null,m,e,{})}}
+//# sourceMappingURL=feature2-f83db12b.js.map
